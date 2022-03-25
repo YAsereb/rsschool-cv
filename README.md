@@ -1,1 +1,1 @@
-# https://YAsereb.github.io/rsschool-cv-html/
+# https://YAsereb.github.io/rsschool-cv/
