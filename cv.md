@@ -40,7 +40,7 @@ Building Faculty
 
 ## Languages
 Russian native
-English A2(read and translate)
+English A2(continue learning)
 
 
 
