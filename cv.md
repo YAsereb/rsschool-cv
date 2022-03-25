@@ -6,8 +6,8 @@
 * discord: Yaroslav Serebrenikov (@YAsereb)
  
 ## About me
-I'm 29 yers old. I working for an engineering company as a leading engineer.
-I started learning front-end in Junyary 2022 on MDN and earn.javascript.ru.
+I'm 29 years old. I working for an engineering company as a leading engineer.
+I started learning front-end in January 2022 on MDN and earn.javascript.ru.
 
 ## Skills
 HTML
