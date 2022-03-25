@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://YAsereb.github.io/rsschool-cv/cv
